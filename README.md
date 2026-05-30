@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Mike 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=22&pause=1000&color=F8BBD0&center=true&vCenter=true&width=520&lines=Cool;+Awesome;+Handsome;+And+The+Best" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=22&pause=1000&color=F7B6D2&center=true&vCenter=true&width=600&lines=Cool;+Awesome;+Handsome;+And+The+Best" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kedrovaya-shishka&style=for-the-badge&color=F8BBD0" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=kedrovaya-shishka&style=for-the-badge&color=F7B6D2" alt="Profile Views" />
 </p>
 
 ---
@@ -15,8 +15,8 @@
 - **Name:** Mike
 - **Username:** `kedrovaya-shishka`
 - **Main languages:** `C#`, `JavaScript`
-- **Style:** aesthetic, clean, dreamy
-- **Vibe:** cool, awesome, handsome, and the best
+- **Style:** aesthetic, elegant, soft, visually pleasing
+- **Mood:** cool, awesome, handsome, and the best
 
 ---
 
@@ -44,11 +44,11 @@
 ### 🎧 Spotify
 
 <p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=novatorem&show_offline=false&background_color=1a1a1a&interchange=false&bar_color=ffb6c1&bar_color_cover=false" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=novatorem&show_offline=false&background_color=1a1a1a&interchange=false&bar_color=F7B6D2&bar_color_cover=false" />
 </p>
 
 <p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=compact&show_offline=false&background_color=1a1a1a&interchange=false&bar_color=f8bbd0&bar_color_cover=false" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=compact&show_offline=false&background_color=1a1a1a&interchange=false&bar_color=E7A9C8&bar_color_cover=false" />
 </p>
 
 ---
@@ -56,5 +56,5 @@
 ### 🌙 Aesthetic Quote
 
 <p align="center">
-  <i>“Building elegant code with a soft aesthetic touch.”</i>
+  <i>Building elegant code with a soft aesthetic touch.</i>
 </p>
