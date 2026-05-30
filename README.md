@@ -31,8 +31,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kedrovaya-shishka&show_icons=true&theme=rose_pine&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kedrovaya-shishka&layout=compact&theme=rose_pine&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kedrovaya-shishka&show_icons=true&theme=rose_pine&hide_border=true&cache_seconds=1800" />
+  <img src="https://streak-stats.demolab.com/?user=kedrovaya-shishka&theme=rose_pine&hide_border=true" />
 </p>
 
 <p align="center">
