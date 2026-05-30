@@ -44,11 +44,11 @@
 ### 🎧 Spotify
 
 <p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=novatorem&show_offline=false&background_color=1a1a1a&interchange=false&bar_color=F7B6D2&bar_color_cover=false" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31werkzgsnp4r5kq2cy2cdf4yof4$cover_image=true&theme=novatorem&show_offline=false&background_color=1a1a1a&interchange=false&bar_color=F7B6D2&bar_color_cover=false" />
 </p>
 
 <p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=compact&show_offline=false&background_color=1a1a1a&interchange=false&bar_color=E7A9C8&bar_color_cover=false" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31werkzgsnp4r5kq2cy2cdf4yof4&cover_image=true&theme=compact&show_offline=false&background_color=1a1a1a&interchange=false&bar_color=E7A9C8&bar_color_cover=false" />
 </p>
 
 ---
