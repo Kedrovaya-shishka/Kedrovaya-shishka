@@ -40,6 +40,7 @@
 
 <p align="center">
     <img src="https://i.pinimg.com/736x/a4/d8/d9/a4d8d941a7f95233613ce3dfed399bc7.jpg" width="200" style="border-radius: 50%" />
+    <img src="https://i.pinimg.com/1200x/95/a1/a6/95a1a62b96ae02574d5a2868914d0bbf.jpg" width="200" style="border-radius: 50%" />
 </p>
 
 ---
