@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mike 👋</h1>
+<h1 align="center">Hi, I'm Миха Ил 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=22&pause=1000&color=F8BBD0&center=true&vCenter=true&width=520&lines=Cool;+Awesome;+Handsome;+And+The+Best" alt="Typing SVG" />
