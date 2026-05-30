@@ -36,7 +36,7 @@
 
 ---
 
-### 🎧 Spotify
+### 🎧 Spotify Love
 
 <p align="center">
     <img src="https://i.pinimg.com/736x/a4/d8/d9/a4d8d941a7f95233613ce3dfed399bc7.jpg" width="200" style="border-radius: 50%" />
