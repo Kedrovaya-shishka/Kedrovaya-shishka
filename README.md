@@ -39,9 +39,7 @@
 ### 🎧 Spotify
 
 <p align="center">
-  <a href="https://spotify-playing-readme.vercel.app">
-    <img src="https://spotify-playing-readme.vercel.app/api/now-playing" alt="Spotify Now Playing" />
-  </a>
+    <img src="https://i.pinimg.com/736x/d4/f3/95/d4f395bb87b318a25f36b6d34b211fe5.jpg" width="200" style="border-radius: 50%" />
 </p>
 
 ---
